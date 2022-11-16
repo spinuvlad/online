@@ -1,33 +1,43 @@
-Vlad Depozit: https://livenet.xrpl.org/accounts/rpYXDYWUKcxAaAMmchcxbEuLthE19sUyMu
+Vlad Depozit: 
+https://livenet.xrpl.org/accounts/rpYXDYWUKcxAaAMmchcxbEuLthE19sUyMu
 rpYXDYWUKcxAaAMmchcxbEuLthE19sUyMu
 
-Vlad Cheltuieli: https://livenet.xrpl.org/accounts/r76bFNECUofWbV7AkZsZBApQLqzZpy3zG
+Vlad Cheltuieli: 
+https://livenet.xrpl.org/accounts/r76bFNECUofWbV7AkZsZBApQLqzZpy3zG
 r76bFNECUofWbV7AkZsZBApQLqzZpy3zG
 
-Marina Depozit: https://livenet.xrpl.org/accounts/rDKsnR8jxWJaX7ZXEeSB6PCgpvFTuT4ZpE
+Marina Depozit: 
+https://livenet.xrpl.org/accounts/rDKsnR8jxWJaX7ZXEeSB6PCgpvFTuT4ZpE
 rDKsnR8jxWJaX7ZXEeSB6PCgpvFTuT4ZpE
 
 
 
-xlm stellar: https://stellarscan.io/account/GAT2E36BVYY27S7TTLELXWGR73KCUDYCZCXM7G26EUZSOABCP7KX36E3
+xlm stellar: 
+https://stellarscan.io/account/GAT2E36BVYY27S7TTLELXWGR73KCUDYCZCXM7G26EUZSOABCP7KX36E3
 GAT2E36BVYY27S7TTLELXWGR73KCUDYCZCXM7G26EUZSOABCP7KX36E3
 
-algo: https://algoscan.app/address/T3RRYZFCKUD7IO332JMM5UB2SOLFGLD6W3ZROFCOBOPL44DSKIS7W6B7ZA
+algo: 
+https://algoscan.app/address/T3RRYZFCKUD7IO332JMM5UB2SOLFGLD6W3ZROFCOBOPL44DSKIS7W6B7ZA
 T3RRYZFCKUD7IO332JMM5UB2SOLFGLD6W3ZROFCOBOPL44DSKIS7W6B7ZA
 
-xdc: https://explorer.xinfin.network/address/xdc919F0C2f73eCF2c6AA3637d85DF4614f654525A2#transactions
+xdc: 
+https://explorer.xinfin.network/address/xdc919F0C2f73eCF2c6AA3637d85DF4614f654525A2#transactions
 xdc919F0C2f73eCF2c6AA3637d85DF4614f654525A2
 
-iota vlad: https://explorer.iota.org/mainnet/addr/iota1qrkd3tfcvquz6duzg5eg5rcs5v49kz6264g6kwrrmujps9zhj6nr5hu4xr5
+iota vlad: 
+https://explorer.iota.org/mainnet/addr/iota1qrkd3tfcvquz6duzg5eg5rcs5v49kz6264g6kwrrmujps9zhj6nr5hu4xr5
 iota1qrkd3tfcvquz6duzg5eg5rcs5v49kz6264g6kwrrmujps9zhj6nr5hu4xr5
 
-iota marina: https://explorer.iota.org/mainnet/addr/iota1qpe6d3j80z8es948us5ys2ges0q0j4d5f5hpm2lpkep4rv5nnxyqwr3uut5
+iota marina: 
+https://explorer.iota.org/mainnet/addr/iota1qpe6d3j80z8es948us5ys2ges0q0j4d5f5hpm2lpkep4rv5nnxyqwr3uut5
 iota1qpe6d3j80z8es948us5ys2ges0q0j4d5f5hpm2lpkep4rv5nnxyqwr3uut5
 
-cph: https://explorer.cypherium.io/search/CPHD9A9030123DF0663619962823CE2BBA67231019C
+cph: 
+https://explorer.cypherium.io/search/CPHD9A9030123DF0663619962823CE2BBA67231019C
 CPHD9A9030123DF0663619962823CE2BBA67231019C
 
-terra: https://atomscan.com/terra/accounts/terra1hvv3f7r49yx7r5c4tt5dk62me9l5gpy4v89z0w
+terra: 
+https://atomscan.com/terra/accounts/terra1hvv3f7r49yx7r5c4tt5dk62me9l5gpy4v89z0w
 terra1hvv3f7r49yx7r5c4tt5dk62me9l5gpy4v89z0w
 
 trx: https://tronscan.org/#/address/TXrJ1zcUJc7P2YddUvMjatoBiqdeJses3K
@@ -36,10 +46,12 @@ TXrJ1zcUJc7P2YddUvMjatoBiqdeJses3K
 polkadot:
 5Hmf6Mdx8i7w5JkC4DbKa6uEcwqN7mJd7hGgX1mCDwLY3kt1
 
-kar: https://karura.subscan.io/account/u1EJdEF4pPDmJzRG7gWjTrneSyNFXtvhiSDbmtxUs7xUr7F
+kar: 
+https://karura.subscan.io/account/u1EJdEF4pPDmJzRG7gWjTrneSyNFXtvhiSDbmtxUs7xUr7F
 u1EJdEF4pPDmJzRG7gWjTrneSyNFXtvhiSDbmtxUs7xUr7F
 
-hbar: https://hederaexplorer.io/search-details/account/0.0.1418144
+hbar: 
+https://hederaexplorer.io/search-details/account/0.0.1418144
 0.0.1418144
 
 
